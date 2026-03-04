@@ -1,4 +1,4 @@
-💳 Real-Time Fraud Detection System
+Real-Time Fraud Detection System
 
 > Detects fraudulent transactions in real-time using anomaly scoring, risk classification, and automated alert generation.
 
